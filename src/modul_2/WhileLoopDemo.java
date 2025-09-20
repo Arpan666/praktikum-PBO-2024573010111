@@ -4,7 +4,6 @@ public class WhileLoopDemo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-
         System.out.println("=== While Loop - Tebak Angka ===");
         int angkaRahasia = 7;
         int tebakan = 0;
@@ -21,11 +20,8 @@ public class WhileLoopDemo {
                 System.out.println("Benar! Angka rahasianya adalah " + angkaRahasia);
             }
         }
-
-
         System.out.println("\n=== Do-While Loop - Menu ===");
         int pilihan;
-
         do {
             System.out.println("1. Tampilkan pesan");
             System.out.println("2. Hitung faktorial");

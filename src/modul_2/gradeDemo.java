@@ -12,7 +12,6 @@ public class gradeDemo {
         char grade;
         String keterangan;
 
-        //menggunakan if-else
         if (nilai >= 85) {
             grade ='A';
             keterangan= "exxelent";
