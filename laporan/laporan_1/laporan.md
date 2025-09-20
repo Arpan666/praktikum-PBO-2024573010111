@@ -20,27 +20,20 @@ Pemrograman yang mengorganisir kode dalam bentuk objek yang memiliki atribut (pr
 
 Java sebagai pilihan bahasa pemrograman:
 
-Platform independence (“Write once, run anywhere”) – Java yang sudah dikompilasi menjadi bytecode bisa dijalankan di berbagai OS melalui JVM.
-
-Strongly typed language – tipe data dicek secara ketat saat kompilasi, sehingga potensi kesalahan runtime bisa dikurangi.
-
-Rich library – koleksi pustaka yang luas untuk berbagai kebutuhan: manipulasi string, networking, koneksi database, dll.
-
-Komunitas besar – banyak dokumentasi, forum, dan sumber belajar yang aktif.
-
-Standar industri – Java banyak dipakai di banyak perusahaan; penguasaan Java memberikan nilai tambah profesional.
+1. Platform independence (“Write once, run anywhere”) – Java yang sudah dikompilasi menjadi bytecode bisa dijalankan di berbagai OS melalui JVM.
+2. Strongly typed language – tipe data dicek secara ketat saat kompilasi, sehingga potensi kesalahan runtime bisa dikurangi.
+3. Rich library – koleksi pustaka yang luas untuk berbagai kebutuhan: manipulasi string, networking, koneksi database, dll.
+4. Komunitas besar – banyak dokumentasi, forum, dan sumber belajar yang aktif.
+5. Standar industri – Java banyak dipakai di banyak perusahaan; penguasaan Java memberikan nilai tambah profesional.
 
 Komponen-komponen dalam ekosistem Java:
 
 Komponen	Fungsi / Kegunaan
 
-JDK (Java Development Kit)	: Toolset lengkap untuk pengembangan: mengompilasi kode, menjalankan, debugging, utilities.
-
-JRE (Java Runtime Environment)  : Lingkungan runtime untuk menjalankan aplikasi Java yang sudah dikompilasi. Tidak termasuk tools development.
-
-JVM (Java Virtual Machine)	: Mesin virtual yang menjalankan bytecode. Mengelola memory, menjalankan instruksi, verifikasi keamanan, serta optimisasi seperti Just-In-Time (JIT).
-
-IDE (Integrated Development Environment) :	Lingkungan terpadu yang membundel editor kode, debugger, project management, dan fitur-lain untuk memudahkan pengembangan. Contoh: IntelliJ IDEA Community Edition.
+1. JDK (Java Development Kit)	: Toolset lengkap untuk pengembangan: mengompilasi kode, menjalankan, debugging, utilities.
+2. JRE (Java Runtime Environment)  : Lingkungan runtime untuk menjalankan aplikasi Java yang sudah dikompilasi. Tidak termasuk tools development.
+3. JVM (Java Virtual Machine)	: Mesin virtual yang menjalankan bytecode. Mengelola memory, menjalankan instruksi, verifikasi keamanan, serta optimisasi seperti Just-In-Time (JIT).
+4. IDE (Integrated Development Environment) :	Lingkungan terpadu yang membundel editor kode, debugger, project management, dan fitur-lain untuk memudahkan pengembangan. Contoh: IntelliJ IDEA Community Edition.
 
 ---
 
